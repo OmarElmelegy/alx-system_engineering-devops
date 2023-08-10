@@ -1,1 +1,1 @@
-# This repo is for the task called "0x00. Shell, basics"..
+# This repo is for the bash tasks..
